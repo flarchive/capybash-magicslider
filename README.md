@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of capybash/magicslider.** Not for installation: use [Packagist](https://packagist.org/packages/capybash/magicslider) or the [upstream repository](https://github.com/capybash/magicslider).
 
-**0** versions archived · Latest: [`v6.1.0`](https://github.com/flarchive/capybash-magicslider/tree/archive/v6.1.0) · License: `MIT` · Flarum: `^2.0`
+**8** versions archived · Latest: [`v6.1.0`](https://github.com/flarchive/capybash-magicslider/tree/archive/v6.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-10-15 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v1.0.0) |
+| `v1.1.1` | 2025-10-15 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v1.1.1) |
+| `v2.0.0` | 2025-10-15 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v2.0.0) |
+| `v3.0.0` | 2025-10-15 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v3.0.0) |
+| `v4.0.0` | 2025-10-17 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v4.0.0) |
+| `v5.0.0` | 2025-10-19 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v5.0.0) |
+| `v6.0.0` | 2025-10-22 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v6.0.0) |
+| `v6.1.0` | 2025-10-22 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicslider/tree/archive/v6.1.0) |
 
 Catalog entry: [packages/capybash-magicslider.json](https://github.com/flarchive/archive-index/blob/main/packages/capybash-magicslider.json)
 
